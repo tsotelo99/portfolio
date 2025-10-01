@@ -1,4 +1,4 @@
-baseurl: /portfolio-template/
+baseurl: /portfolio/
 defaults:
   - scope:
       path: ""
