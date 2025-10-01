@@ -1,0 +1,431 @@
+
+@media screen {
+/*****************************************************
+PAGE SETUP
+*****************************************************/
+
+/* --- Reset & Base --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Minimalist mountain palette */
+:root {
+  --pine: #394e42;         /* Deep pine green */
+  --lichen: #c3d0b7;       /* Soft lichen green */
+  --snow: #fefffe;         /* Pure snow white */
+  --granite: #2c2c2c;      /* Charcoal granite */
+  --fog: #ededed;          /* Light gray-green */
+  --cedar: #7d8471;        /* Muted cedar green */
+
+  /* Semantic assignments */
+  --text-primary: var(--granite);
+  --text-secondary: #4a4a4a;
+  --text-muted: #7a7a7a;
+  --text-link: var(--pine);
+
+  --bg-primary: var(--snow);
+  --bg-secondary: var(--fog);
+  
+  --accent: var(--pine);
+  --accent-hover: var(--lichen);
+  
+  --border: var(--pine);
+}
+
+html, body {
+  background-color: var(--bg-primary);
+  width:100%;
+  min-height: 100vh;
+}
+
+.page-wrap {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  max-width: 50rem;
+  margin: 0 auto;
+  clear:both;
+}
+
+
+/*****************************************************
+JUMBOTRON
+*****************************************************/
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  opacity: 1;   
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron p {
+  text-align: center;
+}
+
+
+
+/*****************************************************
+ToC ROWS
+*****************************************************/
+
+.toc-row {
+  margin-bottom: 1rem;
+  padding: 1.5rem;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 300;
+  background: var(--bg-secondary);
+  border-left: 3px solid var(--accent-hover);
+  border-radius: 6px;
+  align-items: center;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.toc-row:hover {
+  border-left-color: var(--accent);
+  cursor: pointer;
+}
+
+.toc-row a {
+  font-weight: normal !important;
+  text-decoration: none;
+  color: inherit;
+}
+
+.toc-row img.card-image {
+  object-fit: cover;
+  height: 100%;
+  max-height: 16rem;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.toc-row h3 {
+  margin-top: 0;
+  font-size:150%;
+  text-transform: uppercase;
+  color: var(--text-primary); 
+
+}
+
+.toc-row p {
+  color: var(--text-muted, #bcbcbc);
+  margin-bottom: 0;
+  line-height: 1.4;
+}
+
+
+.toc-row-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.toc-body {
+  flex: 1;
+}
+
+.toc-arrow {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  margin-left: 2rem;
+  opacity: 0.7;
+  transition: opacity 0.3s ease;
+}
+
+.toc-arrow svg {
+  width: 4rem;
+  height: 4rem;
+}
+
+.toc-row:hover .toc-arrow {
+  opacity: 1;
+}
+
+
+
+/*****************************************************
+PODCAST LISTINGS
+*****************************************************/
+
+.podcast-card {
+  display: flex;
+  align-items: stretch;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+.podcast-image-col {
+  flex: 0 0 120px; /* fixed width for image column */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.podcast-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.podcast-info-col {
+  flex: 1 1 auto;
+  padding: 1.5rem;
+  text-align: left;
+}
+
+.podcast-title {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  color: #222;
+}
+
+.podcast-description {
+  margin: 0;
+  color: #555;
+}
+
+
+/*****************************************************
+IMAGES
+*****************************************************/
+
+figure {
+  margin-bottom:0;
+  clear:none;
+  margin:none;
+  /* no bottom padding; handled with caption */
+}
+
+.right {
+  float:right;
+  margin-left: 2rem;
+  margin-right: 0rem;
+  text-align: left;
+  
+}
+
+.left {
+  float: left;
+  margin-left: 0rem;
+  margin-right: 2rem;
+}
+
+.center {
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  display: block;
+  color:#888;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size:.8rem;
+  line-height: 1.1rem;
+  text-align: justify;
+  margin: .4rem 0 1rem 0;
+  padding: 0;
+  clear:both;
+}
+
+figcaption p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2rem;
+  font-size: .8rem;
+}
+
+figcaption a {
+  opacity: .5;
+  font-weight: normal;
+}
+
+
+
+/*****************************************************
+DIRECTORY CARDS
+*****************************************************/
+
+
+.v-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.v-card .card-body {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.card {
+  opacity:.8;
+  min-height: 15rem;
+  transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transition */
+}
+
+.card:hover {
+  background:#eee;
+  opacity:1;
+  transform: scale(1.05); /* Slightly enlarge the card */
+}
+
+.card-image {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  max-height: 15rem;
+}
+
+.card-img-top {
+  height:15rem;
+}
+
+.card-body {
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.card h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: .5rem 0 1rem 0;
+}
+
+.card-text {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.card  a {
+  opacity:1;
+  color:#000;
+  text-decoration: none;
+  border-bottom:0px
+}
+
+
+
+/*****************************************************
+IMAGE CAROUSEL
+*****************************************************/
+
+.carousel {
+  width: 100%;
+  max-width: 800px;
+  /* or your preferred width */
+  height: 400px;
+  /* set your preferred height */
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #eee;
+}
+
+.carousel-item img {
+  max-height: 400px;
+  /* your desired height */
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  background: #eee;
+  /* optional: for letterbox effect */
+}
+
+p.carousel-caption {
+  color: #666;
+  border: 0px solid black;
+  font-family:'Source Sans 3';
+  font-size:1.4rem;
+  line-height: 1.8rem;
+  text-shadow:none;
+  text-align: left;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+  padding: 0;
+  margin: .5rem 0 0 2rem;
+}
+
+
+
+/*****************************************************
+FOOTER
+*****************************************************/
+
+footer {
+  display:flex;
+  margin-top: auto;
+  padding: 2em;
+  vertical-align: center;
+  justify-content: center;
+  
+  background-color: var(--fog);
+  border-top: 2px solid var(--border);
+}
+
+/* for a footer on top of the UNM footer */
+.site-footer {
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: 32px;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 16px;
+}
+
+} /* end media screen */
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+@media (max-width: 768px) {
+
+  main {
+    margin: 0 1.5%;
+  }
+
+  aside {
+    position: relative;
+    width: 100%;
+    padding: .4em;
+    border: 1px solid #ccc;
+    background: #fefefe;
+    margin-bottom: 1em;
+  }
+
+  aside.aside-right {
+    margin-left: 0;
+    left: 0;
+    width:100%;
+  }
+
+  aside p {
+    margin: 0;
+  }
+}

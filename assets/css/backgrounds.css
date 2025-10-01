@@ -1,0 +1,109 @@
+/*****************************************************
+BACKGROUNDs
+*****************************************************/
+
+.bg-image {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* This makes the background fixed while scrolling */
+}
+
+
+/* Styling the scrolling text box */
+.bg-text-box {
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  font-family: 'Lora', 'Source Sans 3', sans-serif;
+  line-height: 1.6;
+  background: #fff;
+  color: #222;  
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+  
+
+.bg-multi-container {
+  position: relative;
+  height: auto;
+}
+
+
+.bg-multi {
+  position: sticky; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 1s ease-in-out;
+  z-index: 0; /* Keeps the background behind the text */
+}
+
+
+/*****************************************************
+STICKY BACKGROUND
+*****************************************************/
+/* keep next 3 sections together */
+.sticky-bg-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  background: blue;
+  height: auto;
+}
+
+.sticky-bg {
+  position: sticky;
+  grid-row: 1;
+  grid-column: 1;
+  top: 0;
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+.sticky-bg-content {       
+  top: 2rem;
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1.5rem 2rem;
+  font-family: 'Lora', 'Source Sans 3', sans-serif;
+  line-height: 1.6;
+  background: #fff;
+  color: #222;
+  z-index: 10;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+
+
+/*****************************************************
+SIDE SCROLL
+*****************************************************/
+
+.side-scroll-container {
+  width: 100%;
+  margin: auto 2rem;
+}
+
+.ss-text-box {
+  width: 33%;
+}
+
+.ss-image-container {
+  position: sticky;
+  top: 0;
+  float: right;
+  max-width: 66%;
+}
+
+.ss-image {
+  width: 100%;
+}
+
+ 

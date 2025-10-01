@@ -1,0 +1,145 @@
+/*****************************************************
+NAVIGATION
+*****************************************************/
+
+@media screen {
+
+
+/*****************************************************
+TOPNAV
+*****************************************************/
+
+.navbar {
+  padding: .5rem 1rem;
+  border-bottom: 1px solid var(--border);
+  font-family: 'Source Sans 3', sans-serif;
+
+  background-color: var(--fog) !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold !important;
+  text-decoration: none;
+  border-bottom: none;
+  color: var(--text-primary) !important;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+}
+
+.navbar-nav a {
+  color: var(--text-primary);
+  text-decoration: none;
+  padding: .5rem 1rem;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.navbar-nav a:hover,
+.navbar-nav a.active {
+  background: #e5e5e5;
+  color: #0072b1;
+}
+
+
+/*****************************************************
+SIDENAV
+*****************************************************/
+.left-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 25vw;
+    height: 100vh;
+    padding: 2rem 1rem;
+    background: var(--bg-secondary);
+    border-right: 1px solid var(--border);
+    z-index: 100;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.04);
+    overflow-y: auto;
+  }
+
+h2.left-bar-nav-section {
+    margin-top: 1.3rem;
+    padding-left: 0;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: -.02rem;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--border);
+}
+
+
+.left-bar ul {
+  padding: 0;
+  margin: 0 0 0 1rem;
+  list-style: none;
+}
+
+.left-bar-nav-item {
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.left-bar-nav-item a {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  text-decoration: none;
+  color: #333;
+  border-bottom: none;
+  border-radius: 6px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.left-bar-nav-item a:hover,
+.left-bar-nav-item a.active {
+  color: var(--text-link);
+  text-decoration: underline;
+}
+
+.main-content {
+  margin-left: 25vw; /* same as sidebar width */
+}
+
+
+/*****************************************************
+BREADCRUMB NAVIGATION
+*****************************************************/
+.breadcrumb-nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px 0;
+  display: flex;
+  gap: 8px;
+}
+
+.breadcrumb-nav-list-item a {
+  color: #0072b1;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.breadcrumb-nav-list-item span {
+  color: #555;
+  font-size: 1rem;
+}
+
+
+} /* end media screen */
+
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+  @media (max-width: 768px) {
+
+}
