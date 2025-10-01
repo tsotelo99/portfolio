@@ -7,8 +7,8 @@ summary: My CV contains info about my work experience and more
 thumbnail: assets/images/Augustine_Lateran.jpg
 ---
 
-# Alexandra Ruiz
-Email: aruiz@university.edu • Phone: (505) 555-3482  
+# Teresa Rodriguez Sotelo
+Email: tsotelo99@unm.edu • Phone: (505) 555-3482  
 Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://linkedin.com/in/alexruizdh)  
 
 ---
