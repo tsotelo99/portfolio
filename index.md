@@ -5,7 +5,7 @@ date: 2024-12-02
 ---
 
 
-# Historian of Borderlands
+# Historian of Latin America
 
 I am a History PhD Candidate focusing on the U.S. Southwest.
 
