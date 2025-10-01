@@ -15,9 +15,9 @@ Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://l
 
 ## Education
 
-### Ph.D. Candidate, Digital Humanities
-*Southwest State University, Department of History and Digital Studies*  
-2021–present  
+### Ph.D. Student, History
+*University of New Mexico, Department of History*  
+2024–present  
 - Dissertation (in progress): *Reimagining the Archive: Virtual Museums and Public Engagement in the U.S. Southwest*  
 - Advisor: Dr. Michael Tran  
 
