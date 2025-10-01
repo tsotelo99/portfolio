@@ -1,9 +1,9 @@
 settings:
   links_font_weight: normal
 profile:
-  image_url: /assets/images/ar-photo-1.jpg
-  alt_text: "Profile photo of Alexandra"
-  name: Alexandra Ruiz
+  image_url: /assets/images/teresa_rodriguez.jpg
+  alt_text: "Profile photo of Teresa Rodriguez"
+  name: Teresa Rodriguez Sotelo
   description: History PhD Candidate at the University of New Mexico. Photo by [Ottowagraphics](https://pixabay.com/users/ottawagraphics-3815775/).
 links:
   - title: UNM Profile
