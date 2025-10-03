@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 summary: My teaching philosophy
-thumbnail: assets/images/great-lecture.jpg
+thumbnail: assets/images/zapata.jpeg
 ---
 
 ## How I Approach Teaching

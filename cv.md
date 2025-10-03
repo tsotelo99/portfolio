@@ -4,7 +4,7 @@ layout: base
 css: cv.css
 homepage: TRUE
 summary: My CV contains info about my work experience and more
-thumbnail: assets/images/Augustine_Lateran.jpg
+thumbnail: assets/images/vasconcelos_library.jpeg
 ---
 
 # Teresa Rodriguez Sotelo
