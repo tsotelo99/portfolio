@@ -31,17 +31,12 @@ Website:
 ---
 
 ## Areas of Interest
--Mexican History 
--Women in Student Movements
--Human Rights Violations
--Collateral damages caused by nation-state violence
--Testimonios 
--Cristero War
--Economic Disparity in Mexico  
-
----
-
-## Professional Experience
+- Mexican History 
+- Women in Student Movements
+- Human Rights Violations
+- Collateral damages caused by nation-state violence
+- Testimonios 
+- Cristero War
 
 ### Graduate Research 
 *Columbia University, NY*  
