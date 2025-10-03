@@ -1,5 +1,5 @@
 ---
-title: Alexandra Ruiz
+title: Teresa Rodriguez Sotelo
 layout: left-profile
 date: 2024-12-02
 ---

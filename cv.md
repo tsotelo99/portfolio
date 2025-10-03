@@ -9,7 +9,7 @@ thumbnail: assets/images/Augustine_Lateran.jpg
 
 # Teresa Rodriguez Sotelo
 Email: tsotelo99@unm.edu • Phone: (505) 555-3482  
-Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://linkedin.com/in/alexruizdh)  
+Website:  
 
 ---
 
@@ -17,27 +17,26 @@ Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://l
 
 ### Ph.D. Student, History
 *University of New Mexico, Department of History*  
-2024–present  
-- Dissertation (in progress): *Reimagining the Archive: Virtual Museums and Public Engagement in the U.S. Southwest*  
-- Advisor: Dr. Michael Tran  
+2024–present    
 
-### M.A. Public History
-*University of the Desert*  
+### M.A. Latin America Studies
+*California State University, Los Angeles*  
 2018–2020  
-- Thesis: *Digitizing Memory: Community-Driven Archives in Borderlands History*  
+- Thesis: *State Violence and Desparecidxs in Mexico, 1990- 2010*  
 
-### B.A. History, Minor in Computer Science
-*Canyon State College*  
+### B.A. Spanish Studies and Latin American Studies 
+*University of California, Santa Cruz*  
 2014–2018  
 
 ---
 
 ## Areas of Interest
-- Digital public history and virtual museums  
-- Humanistic computing and community engagement  
-- Archival digitization and data visualization  
-- History of the U.S. Southwest and borderlands studies  
-- Pedagogy and digital literacy in the humanities  
+-Mexican History 
+-Women in Student Movements
+-Human Rights Violations
+-Collateral damages caused by nation-state violence
+-Testimonios; Cristero War
+-Economic Disparity in Mexico.  
 
 ---
 
