@@ -4,8 +4,8 @@ layout: left-profile
 date: 2024-12-02
 ---
 
-
-# Historian of Latin America
+# Teresa Rodriguez Sotelo
+## Historian of Latin America
 
 I am a History PhD Student focusing on Latin American specially Mexican History during the 1960s.
 
