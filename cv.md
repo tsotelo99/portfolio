@@ -39,29 +39,25 @@ Website:
 - Cristero War
 
 ### Graduate Research 
-*Columbia University*  
-2023  
+*Columbia University*                                          2023  
 -Archival research on the Huma Rights Watch Records: record Group 5: Americas Watch, 1966 – 1994 Archive at the Rare Books Collection Library.   
 Faculty Advisor: Dr. Pablo Piccato  
 
 ### Graduate Research 
-*California State University, Los Angeles Assistant*. 
-May - August 2022.    
+*California State University, Los Angeles Assistant*.          2022.    
 Department of Latin American Studies Department  
 -Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations.  
 Faculty Advisor: Dr. Ericka Verba   
 
 ### Graduate Research                                                            
-*California State University, Los Angeles*  
-December 2022  
+*California State University, Los Angeles*                      2022  
 Department of Latin-American Studies  
 Podcast Title: El Silencio de Mexico                                         
 Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.   
 Faculty Advisor: Dr. Sandra Gutierrez de Jesus  
 
 ### Undergraduate Research 
-*University of California, Santa Cruz*.  
-Sept - Jan 2021  
+*University of California, Santa Cruz*.                        2021  
 Human Rights Investigation Lab     
 Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.   
 Faculty advisor: Dr. Sylvanna Falcón  
