@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 summary: On this page I describe my creative work
-thumbnail: assets/images/puebla.jpeg
+thumbnail: assets/images/maguey.jpeg
 ---
 
 ## Kinetic Sculptures
