@@ -13,13 +13,15 @@
   --red: #D62828;
   --ochre: hsl(48, 100%, 44%);
   --teal: #009FB7;
-  --sage: #A3B18A;
+  --sage: #3e501f;
+  --blue: #337698;
 
   --text-main: var(--cream);
   --text-muted: #bcbcbc;
   --bg-main: var(--blackgreen);
   --bg-alt: var(--charcoal);
   --accent: var(--lime);
+
 }
 
 
@@ -53,7 +55,7 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: 2.8rem;
-  color: var(--accent);
+  color:  #3e501f;
 }
 
 h2 {
