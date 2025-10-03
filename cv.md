@@ -35,55 +35,63 @@ Website:
 -Women in Student Movements
 -Human Rights Violations
 -Collateral damages caused by nation-state violence
--Testimonios; Cristero War
--Economic Disparity in Mexico.  
+-Testimonios 
+-Cristero War
+-Economic Disparity in Mexico  
 
 ---
 
 ## Professional Experience
 
-### Graduate Research Assistant, Digital Heritage Lab
-*Southwest State University*  
-2021–present  
-- Developed interactive 3D reconstructions of historic sites for virtual museum exhibitions.  
-- Managed metadata and digitization workflows for oral history collections.  
-- Co-designed community workshops on digital storytelling.  
+### Graduate Research 
+*Columbia University, NY*  
+2023  
+-Archival research on the Huma Rights Watch Records: record Group 5: Americas Watch, 1966 – 1994 Archive at the Rare Books Collection Library.   
+Faculty Advisor: Dr. Pablo Piccato  
 
-### Public History Intern, Borderlands History Museum
-*El Paso, TX*  
-2019–2020  
-- Assisted in curating an online exhibit on migration narratives.  
-- Coordinated community digitization days with local families.  
-- Designed educational activities integrating GIS maps with oral histories.  
+### Graduate Research 
+*California State University, Los Angeles Assistant*
+May - August 2022
+Department of Latin American Studies Department 
+-Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations. 
+Faculty Advisor: Dr. Ericka Verba  
 
-### Teaching Assistant, Introduction to Public History
-*University of the Desert*  
-2018–2019  
-- Taught discussion sections; developed digital resources for students.  
+  ### Graduate Research                                                                           
+*California State University, Los Angeles* 
+December 2022 
+Department of Latin-American Studies 
+Podcast Title: El Silencio de Mexico                                        
+Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.  
+Faculty Advisor: Dr. Sandra Gutierrez de Jesus 
+
+ ### Undergraduate Research 
+ *University of California, Santa Cruz* 
+ Sept - Jan 2021 
+Human Rights Investigation Lab    
+Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.  
+Faculty advisor: Dr. Sylvanna Falcón 
+ 
+
+### Teaching Assistant
+*University of New Mexico*    
+- Graded; Gave lectures; developed digital resources for students.  
+
+-Fall 2024: Black Athletes in United States History (Hist. 396-04)
+-Spring 2025: United States History I, ~1492-1877 (Hist 1110)
+-Summer 2025: History of Diet and Health (Hist 410)
 
 ---
-
-## Conferences & Presentations
-- *“Virtual Museums and Public Engagement in the Digital Age”* — Digital Humanities Southwest Conference, Albuquerque, NM (2023).  
-- *“Reframing Migration Histories: Community Archives Online”* — American Historical Association Annual Meeting (2022).  
-- *“Augmented Reality in Teaching Regional History”* — THATCamp Southwest (2021).  
-
----
-
 ## Publications
-- Ruiz, Alexandra. *“Digitizing the Borderlands: A Case Study in Community-Driven Archiving.”* *Journal of Public History and Technology* 12, no. 2 (2022): 45–62.  
-- Ruiz, Alexandra, and Michael Tran. *“Reimagining the Museum: Collaborative 3D Reconstruction as Public History.”* In *Digital Heritage in Practice*, ed. L. Johnson, Desert University Press, 2023.  
-
+-Falcón, Sylvanna, Saskia Nauenberg Dunkell, Monica Mikhail, Marina Segatti, Alejandra Watanabe Farro, Viviana Alba, Isabelle Arguilez, Dennise Onchi-Molina, and Teresa Rodriguez Sotelo. Publication. *"Disinformation, the Covid-19 Pandemic, and Latin America"* Santa Cruz, CA, January 2021.   
+ 
 ---
 
 ## Awards & Fellowships
-- Graduate Research Fellowship, Southwest State University, 2022–2024  
-- Emerging Scholar Award, Digital Humanities Southwest Conference, 2023  
-- Outstanding Master’s Thesis Award, University of the Desert, 2020  
+-2025 LAII Mellon Endowment Field Research Grant- University of New Mexico 
+-2025 Clarence & Emily Rogers Research Scholarship – University of New Mexico 
+-2025 HGSA Poster Contest Second Place – University of New Mexico 
+-2022 Blanca Flanagan Rios Scholarship - California State University, Los Angeles 
+-2022 Sally Casanova Pre-Doctoral Fellowship - California State University, Los Angeles 
+-2018-2019 AJ Wang Foundation Scholar - East Los Angeles College  
 
----
 
-## Extracurricular Activities
-- Co-organizer, *DH Praxis Workshop* for graduate students across disciplines (2022–present)  
-- Volunteer, *Code for Community* initiative, offering coding workshops for local high school students (2021–present)  
-- Member, Digital Public History Working Group, National Council on Public History  
