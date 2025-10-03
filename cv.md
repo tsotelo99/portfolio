@@ -45,19 +45,19 @@ Website:
 Faculty Advisor: Dr. Pablo Piccato  
 
 ### Graduate Research 
-*California State University, Los Angeles Assistant*
-May - August 2022
-Department of Latin American Studies Department 
--Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations. 
-Faculty Advisor: Dr. Ericka Verba  
+*California State University, Los Angeles Assistant*. 
+May - August 2022.    
+Department of Latin American Studies Department  
+-Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations.  
+Faculty Advisor: Dr. Ericka Verba   
 
-### Graduate Research                                                                           
-*California State University, Los Angeles* 
-December 2022 
-Department of Latin-American Studies 
-Podcast Title: El Silencio de Mexico                                        
-Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.  
-Faculty Advisor: Dr. Sandra Gutierrez de Jesus 
+### Graduate Research                                                            
+*California State University, Los Angeles*  
+December 2022  
+Department of Latin-American Studies  
+Podcast Title: El Silencio de Mexico                                         
+Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.   
+Faculty Advisor: Dr. Sandra Gutierrez de Jesus  
 
 ### Undergraduate Research 
 *University of California, Santa Cruz* 
