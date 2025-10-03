@@ -60,8 +60,8 @@ Conducted research on disappearances from the Yaqui Community in Sonora. I creat
 Faculty Advisor: Dr. Sandra Gutierrez de Jesus 
 
 ### Undergraduate Research 
- *University of California, Santa Cruz* 
- Sept - Jan 2021 
+*University of California, Santa Cruz* 
+Sept - Jan 2021 
 Human Rights Investigation Lab    
 Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.  
 Faculty advisor: Dr. Sylvanna Falcón 
@@ -76,16 +76,16 @@ Graded; Gave lectures; developed digital resources for students.
 
 ---
 ## Publications
-    Falcón, Sylvanna, Saskia Nauenberg Dunkell, Monica Mikhail, Marina Segatti, Alejandra Watanabe Farro, Viviana Alba, Isabelle Arguilez, Dennise Onchi-Molina, and Teresa Rodriguez Sotelo. Publication. *"Disinformation, the Covid-19 Pandemic, and Latin America"* Santa Cruz, CA, January 2021.   
+Falcón, Sylvanna, Saskia Nauenberg Dunkell, Monica Mikhail, Marina Segatti, Alejandra Watanabe Farro, Viviana Alba, Isabelle Arguilez, Dennise Onchi-Molina, and Teresa Rodriguez Sotelo. Publication. *"Disinformation, the Covid-19 Pandemic, and Latin America"* Santa Cruz, CA, January 2021.   
  
 ---
 
 ## Awards & Fellowships
--2025 LAII Mellon Endowment Field Research Grant- University of New Mexico 
--2025 Clarence & Emily Rogers Research Scholarship – University of New Mexico 
--2025 HGSA Poster Contest Second Place – University of New Mexico 
--2022 Blanca Flanagan Rios Scholarship - California State University, Los Angeles 
--2022 Sally Casanova Pre-Doctoral Fellowship - California State University, Los Angeles 
--2018-2019 AJ Wang Foundation Scholar - East Los Angeles College  
+- 2025 LAII Mellon Endowment Field Research Grant- University of New Mexico 
+- 2025 Clarence & Emily Rogers Research Scholarship – University of New Mexico 
+- 2025 HGSA Poster Contest Second Place – University of New Mexico 
+- 2022 Blanca Flanagan Rios Scholarship - California State University, Los Angeles 
+- 2022 Sally Casanova Pre-Doctoral Fellowship - California State University, Los Angeles 
+- 2018-2019 AJ Wang Foundation Scholar - East Los Angeles College  
 
 
