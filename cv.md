@@ -21,8 +21,8 @@ Website:
 
 ### M.A. Latin America Studies
 *California State University, Los Angeles*  
-2018–2020  
-- Thesis: *State Violence and Desparecidxs in Mexico, 1990- 2010*  
+2018–2020.   
+Thesis: *State Violence and Desparecidxs in Mexico, 1990- 2010*  
 
 ### B.A. Spanish Studies and Latin American Studies 
 *University of California, Santa Cruz*  
@@ -50,14 +50,14 @@ Department of Latin American Studies Department
 Faculty Advisor: Dr. Ericka Verba   
 
 ### Graduate Research                                                            
-*California State University, Los Angeles*                      2022  
+*California State University, Los Angeles*          -   2022  
 Department of Latin-American Studies  
 Podcast Title: El Silencio de Mexico                                         
 Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.   
 Faculty Advisor: Dr. Sandra Gutierrez de Jesus  
 
 ### Undergraduate Research 
-*University of California, Santa Cruz*.                        2021  
+*University of California, Santa Cruz*.             -           2021  
 Human Rights Investigation Lab     
 Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.   
 Faculty advisor: Dr. Sylvanna Falcón  
