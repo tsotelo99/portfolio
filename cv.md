@@ -39,7 +39,7 @@ Website:
 - Cristero War
 
 ### Graduate Research 
-*Columbia University, NY*  
+*Columbia University*  
 2023  
 -Archival research on the Huma Rights Watch Records: record Group 5: Americas Watch, 1966 – 1994 Archive at the Rare Books Collection Library.   
 Faculty Advisor: Dr. Pablo Piccato  
@@ -51,7 +51,7 @@ Department of Latin American Studies Department
 -Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations. 
 Faculty Advisor: Dr. Ericka Verba  
 
-  ### Graduate Research                                                                           
+### Graduate Research                                                                           
 *California State University, Los Angeles* 
 December 2022 
 Department of Latin-American Studies 
@@ -59,7 +59,7 @@ Podcast Title: El Silencio de Mexico
 Conducted research on disappearances from the Yaqui Community in Sonora. I created a podcast in Spanish to share with communities in an easier way to understand and contribute to the search for community members.  
 Faculty Advisor: Dr. Sandra Gutierrez de Jesus 
 
- ### Undergraduate Research 
+### Undergraduate Research 
  *University of California, Santa Cruz* 
  Sept - Jan 2021 
 Human Rights Investigation Lab    
@@ -69,15 +69,14 @@ Faculty advisor: Dr. Sylvanna Falcón
 
 ### Teaching Assistant
 *University of New Mexico*    
-- Graded; Gave lectures; developed digital resources for students.  
-
--Fall 2024: Black Athletes in United States History (Hist. 396-04)
--Spring 2025: United States History I, ~1492-1877 (Hist 1110)
--Summer 2025: History of Diet and Health (Hist 410)
+Graded; Gave lectures; developed digital resources for students.  
+- Fall 2024: Black Athletes in United States History (Hist. 396-04)
+- Spring 2025: United States History I, ~1492-1877 (Hist 1110)
+- Summer 2025: History of Diet and Health (Hist 410)
 
 ---
 ## Publications
--Falcón, Sylvanna, Saskia Nauenberg Dunkell, Monica Mikhail, Marina Segatti, Alejandra Watanabe Farro, Viviana Alba, Isabelle Arguilez, Dennise Onchi-Molina, and Teresa Rodriguez Sotelo. Publication. *"Disinformation, the Covid-19 Pandemic, and Latin America"* Santa Cruz, CA, January 2021.   
+    Falcón, Sylvanna, Saskia Nauenberg Dunkell, Monica Mikhail, Marina Segatti, Alejandra Watanabe Farro, Viviana Alba, Isabelle Arguilez, Dennise Onchi-Molina, and Teresa Rodriguez Sotelo. Publication. *"Disinformation, the Covid-19 Pandemic, and Latin America"* Santa Cruz, CA, January 2021.   
  
 ---
 
