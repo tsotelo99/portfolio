@@ -60,11 +60,11 @@ Conducted research on disappearances from the Yaqui Community in Sonora. I creat
 Faculty Advisor: Dr. Sandra Gutierrez de Jesus  
 
 ### Undergraduate Research 
-*University of California, Santa Cruz* 
-Sept - Jan 2021 
-Human Rights Investigation Lab    
-Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.  
-Faculty advisor: Dr. Sylvanna Falcón 
+*University of California, Santa Cruz*.  
+Sept - Jan 2021  
+Human Rights Investigation Lab     
+Report title: COVID-19 Disinformation Tracking Project. I provided research assistance tracking and monitoring ongoing human rights violations in Latin America using open-source methods.   
+Faculty advisor: Dr. Sylvanna Falcón  
  
 
 ### Teaching Assistant
