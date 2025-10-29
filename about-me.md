@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: About Me
 layout: base
 date: 2025-09-30
 homepage: TRUE
