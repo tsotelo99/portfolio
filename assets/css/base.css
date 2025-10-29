@@ -19,20 +19,25 @@ PAGE SETUP
   --granite: #2c2c2c;      /* Charcoal granite */
   --fog: #ededed;          /* Light gray-green */
   --cedar: #7d8471;        /* Muted cedar green */
+  --falu-red: #6f1d1bff;
+  --lion: #bb9457ff;
+  --bistre: #432818ff;
+  --brown: #99582aff;
+  --peach: #ffe6a7ff;
 
   /* Semantic assignments */
   --text-primary: var(--granite);
   --text-secondary: #4a4a4a;
   --text-muted: #7a7a7a;
-  --text-link: var(--pine);
+  --text-link: var(--brown);
 
-  --bg-primary: var(--snow);
+  --bg-primary: var(--peach);
   --bg-secondary: var(--fog);
   
-  --accent: var(--pine);
+  --accent: var(--brown);
   --accent-hover: var(--lichen);
   
-  --border: var(--pine);
+  --border: var(--brown);
 }
 
 html, body {
