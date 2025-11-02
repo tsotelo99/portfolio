@@ -11,7 +11,7 @@ thumbnail: assets/images/unmm_30_sept.png
   
 {% include figure.html
   class="left"
-  width="60%"
+  width="70%"
   caption="HGSA Spring 2025 Poster Contest, Second Place"
   image-path="/assets/images/poster_unmm.png"
 %}
