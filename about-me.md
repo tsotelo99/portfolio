@@ -3,15 +3,15 @@ title: About Me
 layout: base
 date: 2025-09-30
 homepage: TRUE
-summary: On this page I describe my creative work
+summary: A history detective with a love for stories that time almost forgot.
 thumbnail: assets/images/terers.jpeg
 ---
 
-## Kinetic Sculptures
+## About Me
 
 {% include figure.html
   class="left"
-  width="60%"
+  width="50%"
   caption="Teotihuacan is my favorite archaeological site in México"
   image-path="/assets/images/teresa_rodriguez.jpg"
 %}
