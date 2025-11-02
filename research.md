@@ -7,11 +7,11 @@ summary: My current research projects
 thumbnail: assets/images/unmm_30_sept.png
 ---
 
-# Research Interests
+#                               Research Interests
   
 {% include figure.html
   class="left"
-  width="70%"
+  width="100%"
   caption="HGSA Spring 2025 Poster Contest, Second Place"
   image-path="/assets/images/poster_unmm.png"
 %}
