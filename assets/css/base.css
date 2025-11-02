@@ -17,9 +17,10 @@ PAGE SETUP
   --lichen: #c3d0b7;       /* Soft lichen green */
   --snow: #fefffe;         /* Pure snow white */
   --granite: #2c2c2c;      /* Charcoal granite */
-  --fog: #f5e6cb;          /* Light gray-green */
+  --fog: #f5e7cd;          /* Light gray-green */
   --cedar: #7d8471;        /* Muted cedar green */
   --falu-red: #6f1d1bff;
+  --crema: #b9a37b;
   --lion: #bb9457ff;
   --bistre: rgb(50, 31, 21);
   --brown: #99582aff;
@@ -71,7 +72,7 @@ JUMBOTRON
   background-size: cover; 
   background-repeat: no-repeat;
   opacity: 1;   
-  color: white;
+  color: var(--crema);
   text-shadow: black 0.3em 0.3em 0.3em;
 }
 
@@ -126,7 +127,7 @@ ToC ROWS
 }
 
 .toc-row p {
-  color: var(--text-muted, #bcbcbc);
+  color: var(--text-muted, --bistre);
   margin-bottom: 0;
   line-height: 1.4;
 }
@@ -396,7 +397,7 @@ footer {
   font-size: 0.9rem;
   color: var(--lion);
   margin-top: 32px;
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid var(--crema);
   padding-top: 16px;
 }
 
