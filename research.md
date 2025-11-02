@@ -10,6 +10,12 @@ thumbnail: assets/images/unmm_30_sept.png
 # Research Interests
 
 ## Uncovering Stories: Women’s Participation in Mexico’s Student Movements during the 1960s.  
+{% include figure.html
+  class="left"
+  width="45%"
+  caption="HGSA Spring 2025 Poster Contest, Second Place"
+  image-path="/assets/images/poster_unmm.png"
+%}
 
 I am passionate about researching the history of marginalized and underrepresented groups, amplifying their voices, and uncovering stories that had been untold. My interest is researching student movements in twentieth-century Mexico, given their centrality to understanding later struggles for democratization and human rights. I aim to study the presence and role of women in student movements during the 1960s. I want to research how women’s geographical location, class, and education shaped their gendered experiences during the student movements and their impacts. 
 
