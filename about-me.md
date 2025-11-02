@@ -11,7 +11,7 @@ thumbnail: assets/images/terers.jpeg
 
 {% include figure.html
   class="left"
-  width="30%"
+  width="20%"
   caption="Teotihuacan is my favorite archaeological site in México"
   image-path="/assets/images/teresa_rodriguez.jpg"
 %}
