@@ -15,6 +15,13 @@
   --teal: #009FB7;
   --sage: #3e501f;
   --blue: #337698;
+  --fog : #f5e7cd;          
+  --falu-red: #6f1d1bff;
+  --crema: #b9a37b;
+  --lion: #bb9457ff;
+  --bistre: rgb(50, 31, 21);
+  --brown: #99582aff;
+  --peach: #ffe6a7ff;
 
   --text-main: var(--cream);
   --text-muted: #bcbcbc;
@@ -83,7 +90,7 @@ p {
 .highlight {
   font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
   font-size: .9em;
-  background: #7ec4ea;
+  background: var(--peach, #ec4ea);
   color: #333;
   border-radius: 8px;
 }
