@@ -5,8 +5,8 @@ date: 2024-12-02
 ---
 
 # Teresa Rodriguez Sotelo
-## PhD History Student
-## University of New Mexico
+### PhD History Student
+### University of New Mexico
 
 
 
