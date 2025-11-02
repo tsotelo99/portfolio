@@ -8,11 +8,10 @@ thumbnail: assets/images/unmm_30_sept.png
 ---
 
 # Research Interests
-
-## Uncovering Stories: Women’s Participation in Mexico’s Student Movements during the 1960s.  
+  
 {% include figure.html
   class="left"
-  width="45%"
+  width="60%"
   caption="HGSA Spring 2025 Poster Contest, Second Place"
   image-path="/assets/images/poster_unmm.png"
 %}
