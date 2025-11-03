@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 summary: A history detective with a love for stories that time almost forgot.
-thumbnail: assets/images/terers.jpeg
+thumbnail: assets/images/tere_headshot.png
 ---
 
 ## About Me
