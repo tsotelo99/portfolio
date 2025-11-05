@@ -43,13 +43,13 @@ Thesis: *State Violence and Desparecidxs in Mexico, 1990- 2010*
 -Archival research on the Huma Rights Watch Records: record Group 5: Americas Watch, 1966 – 1994 Archive at the Rare Books Collection Library.   
 Faculty Advisor: Dr. Pablo Piccato  
 
-### Graduate Research 
+
 *California State University, Los Angeles Assistant*.     -     2022.    
 Department of Latin American Studies Department  
 -Assisted Dr. Ericka Verba conducting and compiling primary and secondary resource data. Constructing and editing literature citations.  
 Faculty Advisor: Dr. Ericka Verba   
 
-### Graduate Research                                                            
+                                                           
 *California State University, Los Angeles*          -   2022  
 Department of Latin-American Studies  
 Podcast Title: El Silencio de Mexico                                         
