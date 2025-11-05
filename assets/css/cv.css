@@ -40,7 +40,7 @@ html, body {
   font-family: "Lato", sans-serif;
   font-size: 16px;
   line-height: 1.2rem;
-  background: var(--peach);
+  background: var(--peach) !important;
   color: var(--text-main);
 }
 
