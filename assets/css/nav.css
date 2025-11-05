@@ -12,7 +12,7 @@ TOPNAV
 .navbar {
   padding: .5rem 1rem;
   border-bottom: 1px solid var(--border);
-  font-family: 'Source Sans 3', sans-serif;
+  font-family: 'Source Sans 3', sans-serif !important;
 
   background-color: var(--fog) !important;
 }
