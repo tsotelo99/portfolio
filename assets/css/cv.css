@@ -90,7 +90,7 @@ p {
 .highlight {
   font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace;
   font-size: .9em;
-  background: var(--peach, #ec4ea);
+  background: var(--peach);
   color: #333;
   border-radius: 8px;
 }
@@ -165,16 +165,16 @@ ToC ROWS
 *****************************************************/
 
 .toc-row {
-  background-color: var(--bg-alt, #1C1C1C);
-  border-left: 3px solid var(--accent, #D62828);
+  background-color: var(--bg-alt);
+  border-left: 3px solid var(--accent);
   border-radius: 6px;
   overflow: hidden;
   transition: all 0.3s ease;
 }
 
 .toc-row:hover {
-  background-color: var(--charcoal, #1a1a1a);
-  border-left-color: var(--teal, #009FB7);
+  background-color: var(--charcoal);
+  border-left-color: var(--teal);
   transform: translateX(8px);
   transition: all 0.3s ease;
   cursor: pointer;
