@@ -8,9 +8,7 @@ thumbnail: assets/images/vasconcelos_library.jpeg
 ---
 
 # Teresa Rodriguez Sotelo
-Email: tsotelo99@unm.edu • Phone: (505) 555-3482  
-Website:  
-
+Email: tsotelo99@unm.edu 
 ---
 
 ## Education
